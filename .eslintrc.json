@@ -9,5 +9,6 @@
       "semi": false,
       "singleQuote": true
     }]
-  }
+  },
+  "ignorePatterns": ["*.config.ts"]
 }
